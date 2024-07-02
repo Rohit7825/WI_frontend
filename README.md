@@ -1,3 +1,12 @@
+NAME : ROHIT SHEKHAR BAVISKAR
+BATCH : TY_CSE_DS
+
+
+
+![image](https://github.com/Rohit7825/WI_frontend/assets/106382933/fcc4ad46-9720-4350-9400-dada40909bb0)
+![image](https://github.com/Rohit7825/WI_frontend/assets/106382933/fc6e5a74-8e7b-45c7-9939-b593a95ec849)
+![image](https://github.com/Rohit7825/WI_frontend/assets/106382933/6fe3e5fd-63b4-4f72-9b0e-cdcd6acf1cc4)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
